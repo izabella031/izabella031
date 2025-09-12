@@ -10,9 +10,8 @@ Sou uma desenvolvedora apaixonada por tecnologia, programação e aprendizado co
 - ⚡ Curiosidade: adoro explorar novas soluções e criar experiências digitais
 
 ## 🛠️ Habilidades
-- **Linguagens:** HTML, CSS, JavaScript, Python  
-- **Frameworks/Bibliotecas:** React, Bootstrap  
-- **Ferramentas:** Git, GitHub, VS Code, Jupyter Notebook  
+- **Linguagens:** HTML, CSS, JavaScript
+- **Ferramentas:** Git, GitHub, VS Code
 
 ## 📂 Projetos em destaque
 - [Landing Page Tecnova](https://github.com/izabella031/landing-page-tecnova) – Página web responsiva com HTML e CSS  
