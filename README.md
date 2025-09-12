@@ -19,14 +19,13 @@ Sou uma desenvolvedora apaixonada por tecnologia, programação e aprendizado co
 - [Codedex Projetos](https://github.com/izabella031/codedex-projetos) – Coleção de projetos front-end  
 - [DIO Lab Open Source](https://github.com/izabella031/dio-lab-open-source) – Projetos de aprendizado e experimentação com Python  
 
-> Dica: sempre adicione um README detalhado em cada projeto mostrando tecnologias usadas, prints e instruções de execução.
 
 ## 📊 Estatísticas
 ![Izabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=izabella031&show_icons=true&theme=dracula)
 
 ## 📫 Contato
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin/)  
-- Email: seuemail@email.com  
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/izabella-da-costa-ferreira-8826551a2/)  
+- Email: izabellinha37@gmail.com 
 
 ---
 
