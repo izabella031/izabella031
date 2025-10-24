@@ -23,7 +23,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, programação e aprendizado co
 ![Izabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=izabella031&show_icons=true&theme=dracula)
 
 ## 📫 Contato
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/izabella-da-costa-ferreira-8826551a2/)  
+- LinkedIn: [www.linkedin.com/in/izabella-da-costa-ferreira-8826551a2)  
 - Email: izabellinha37@gmail.com 
 
 ---
